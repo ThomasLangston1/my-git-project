@@ -4,7 +4,6 @@ print("something else")
 
 print("One more item")
 
-
-print("Helo")
+print("Hello")
 
 print("again")
